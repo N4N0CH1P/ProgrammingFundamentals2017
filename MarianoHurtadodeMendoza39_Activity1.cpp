@@ -48,6 +48,7 @@ int main()
     cout << iB200 << " Bills of 200" << endl;
     cout << iB100 << " Bills of 100" << endl;
     cout << iB50 << " Bills of 50" << endl;
+    cout << iB20 << " Bills of 20" << endl;
     cout << iC10 << " Coins of 10" << endl;
     cout << iC5 << " Coins of 5" << endl;
     cout << iC2 << " Coins of 2" << endl;
